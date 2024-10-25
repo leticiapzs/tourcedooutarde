@@ -10,7 +10,7 @@
 ## 🚀 Tecnologias Utilizadas
 - **HTML5**: Estrutura e conteúdo da página.
 - **CSS3**: Estilização e design responsivo.
-- **JavaScript**: Funcionalidade e interatividade, incluindo filtros e animações.
+- **JavaScript**: Funcionalidade e interatividade.
 
 ## 📖 Como Usar
  🌐 Você pode conferir o projeto aqui [Tour cedo ou tarde](https://tourcedooutarde.vercel.app/)
